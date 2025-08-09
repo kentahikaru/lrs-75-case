@@ -10,4 +10,3 @@
 
 # Final setup
 ![alt text](img/FinalSetup.jpg "Final Setup") 
---- | --- 
